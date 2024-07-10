@@ -8,7 +8,7 @@ html {
 }
 @font-face {
   font-family: mukta;
-  src: url("https://github.com/RLBytes/rlbytes.github.io/blob/main/MuktaMahee-Medium.ttf");
+  src: url("https://raw.githubusercontent.com/RLBytes/rlbytes.github.io/main/MuktaMahee-Medium.ttf");
 }
 .content {
   max-width: 1200px;
